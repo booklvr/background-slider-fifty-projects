@@ -1,7 +1,8 @@
 import React from 'react'
+import BackgroundSlider from './components/BackgroundSlider'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <BackgroundSlider />
 }
 
 export default App
